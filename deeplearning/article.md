@@ -1,0 +1,2 @@
+- [解けない連立方程式とディープラーニング（深層学習　Deep Learning）](http://www.fward.net/archives/2126)
+- [ゼロからDeepまで学ぶ強化学習](http://qiita.com/icoxfog417/items/242439ecd1a477ece312)
